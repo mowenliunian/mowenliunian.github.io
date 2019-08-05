@@ -1,0 +1,31 @@
+- name: Programming Languages
+  keywords:
+      - Java
+      - C
+      - C++
+      - C#
+      - Groovy
+      - Python
+      - HTML
+      - CSS
+      - JavaScript
+      - MarkDown
+      - SQL
+- name: Development Tools
+  keywords:
+      - Git
+      - IDEA
+      - Kafka
+      - Redis
+      - MySQL
+      - Spring Boot
+      - Spring
+      - Spring MVC
+      - MyBatis
+      - Spring Batch
+- name: Common Software Skill
+  keywords:
+      - Back End
+      - Design Patterns
+      - Data Structure
+      - English

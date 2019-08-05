@@ -1,0 +1,148 @@
+---
+layout: wiki
+title: 英文词汇
+categories: [English, Vocabulary]
+description: 英文词汇摘录
+keywords: English, Vocabulary
+---
+
+## 需要强化记忆的英文词汇
+
+1. intermediate 中间的
+1. paradigm 范例，范式
+1. ingest 摄取，读取
+1. pipe...out 将...输出
+1. spreadsheet 电子表格
+1. make it up 弥补，补偿，处理，完善
+1. now that 既然，由于，鉴于
+1. bootstrap 引导程序
+1. sublime 升华
+1. leg work 跑腿工作，业务逻辑之外的工作
+1. plumbing 垂直，探测
+1. infrastructure 基础设施，基础建设
+1. subversion 颠覆，瓦解
+1. hassle 争论，麻烦的事
+1. dashboard 仪表盘
+1. leeway 余地，退路
+1. scenario 脚本，设计方案
+1. colon 冒号
+1. semicolon 分号
+1. trivial 区区，不重要的
+1. drill 深入，练习
+1. out-of-the-box 开箱即用的
+1. middleware 中间件
+1. poll 投票，选举，轮询
+1. aggregate 收集，聚合
+1. broker 经纪人，中间商，代理
+1. as a convenience 为方便起见
+1. for simplification 为简单起见
+1. idempotent 幂等的
+1. inadvertently 不经意地，漫不经心地
+1. resemble 相似，类似
+1. precede 优于
+1. preceding 先前的，上面的
+1. precedent 先例，前例
+1. cumbersome 笨重，累赘
+1. hierarchical 分层的，按等级划分的
+1. mandatory 强制的，必须的
+1. draw from 从...中提取
+1. custome 自定义
+1. coerce 逼迫，胁迫，强制，控制
+1. dedicated 专用
+1. asterisk 星号，星状物；加星号于
+1. analogous 相似的，可比拟的
+1. canonical 权威的，典范的
+1. exhaustive 全面的，彻底的
+1. legit 合情理的
+1. legal 合法的
+1. veto 否决；否决权
+1. eligible 合适的，合格的，满足条件的
+1. disruptor 破坏者，分裂者，干扰器
+1. little to no 几乎没有
+1. drastic 极端的，猛烈的
+1. ramp up 提高，增加
+1. tariffs 关税
+1. slash 伤口，斜线
+1. blackslash 反斜线
+1. low-latency 低延迟
+1. high-throughput 高吞吐率
+1. carry-over 保存的食物，结转下期的款项，进位
+1. attribute 属性；把...归因于
+1. gnarly 不太好的，讨厌的
+1. excerpt 摘要，节选，片段
+1. moderation 适度，缓和，评分审核机制
+1. pesky 烦人的，讨厌的
+1. scaffold 断头台，脚手架
+1. skeleton 骨骼，骨架，框架
+1. one off 一次性
+1. e.g. = for example 例如
+1. i.e. = that is / in other words 换言之，也就是说
+1. etc = and so on 等等，诸如此类
+1. parenthesis 小括号
+1. bracket 中括号
+1. brace 大括号
+1. sentence 句子；宣判，判决
+1. terminology 术语，专用名词
+1. foster 促进，培养
+1. aggressive caching 主动缓存
+1. remedy v.改正，纠正，改进；n.疗法，改进措施，修理方法
+1. shortfall 缺口，差额，亏空，不足
+1. omit 省略，忽略，遗漏，删除
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
