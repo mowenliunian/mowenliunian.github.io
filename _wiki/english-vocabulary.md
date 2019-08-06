@@ -88,6 +88,26 @@ keywords: English, Vocabulary
 1. remedy v.改正，纠正，改进；n.疗法，改进措施，修理方法
 1. shortfall 缺口，差额，亏空，不足
 1. omit 省略，忽略，遗漏，删除
+1. seamlessly 无缝地
+1. boast 自夸，有
+1. consortium 财团，联合体
+1. ahold 抓，握
+1. flavor 滋味，风味；加味于，给...调味
+1. spawn 卵；产卵，引发，导致
+1. boilerplate 样板文件，文件范例
+1. ubiquitous 十分普遍的，无处不在的
+1. monadic 单元的，单体的
+1. idiom 习语，成语，惯用语
+1. malicious 恶意的，恶毒的
+1. vulnerability 弱点，脆弱性
+1. deamon 守护进程，虚拟光驱
+1. externalize 表达，表露出来
+1. sufficient 足够的，充足的
+1. arbitrary 任意的；专制的；武断的
+1. elegant 简洁的，优雅的
+1. explanatory 解释的，阐述的
+1. demarcate 标出，划定界限
+1. dummy 假的；仿制品，伪造物
 
 
 
