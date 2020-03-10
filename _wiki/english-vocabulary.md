@@ -46,7 +46,7 @@ keywords: English, Vocabulary
 1. hierarchical 分层的，按等级划分的
 1. mandatory 强制的，必须的
 1. draw from 从...中提取
-1. custome 自定义
+1. custom 自定义
 1. coerce 逼迫，胁迫，强制，控制
 1. dedicated 专用
 1. asterisk 星号，星状物；加星号于
@@ -63,7 +63,7 @@ keywords: English, Vocabulary
 1. ramp up 提高，增加
 1. tariffs 关税
 1. slash 伤口，斜线
-1. blackslash 反斜线
+1. backslash 反斜线
 1. low-latency 低延迟
 1. high-throughput 高吞吐率
 1. carry-over 保存的食物，结转下期的款项，进位
@@ -108,7 +108,26 @@ keywords: English, Vocabulary
 1. explanatory 解释的，阐述的
 1. demarcate 标出，划定界限
 1. dummy 假的；仿制品，伪造物
-
+1. leave oneself a way out 预留退身之路
+1. eternal 不朽的，永恒的
+1. ephemeral 短暂的，瞬息的
+1. coarse 粗糙的，大颗粒的，粗俗的
+1. grain 谷物，颗粒
+1. deceiving 欺骗性的
+1. strip 剥，除去
+1. trail 拖，拉；尾随，跟踪；磨蹭，落后
+1. compliant 顺从的，百依百顺的；符合的，一致的
+1. counterpart 职位或作用相当的人，对应的事物
+1. ternary 三元的，由三个部分组成的
+1. superfluous 过剩的，过多的，多余的
+1. gratuitous 无正当理由的，无谓的
+1. commencement 开始，开端；毕业典礼
+1. auction 拍卖
+1. slot 窄缝，凹槽；位置，时间，机会
+1. thrift 节俭，节约；海石竹
+1. feign 假装，佯装，装作
+1. ribbon 丝带，带状物，装饰
+1. milestone 重要事件，重要阶段；转折点，里程碑
 
 
 
