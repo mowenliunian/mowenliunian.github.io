@@ -28,7 +28,9 @@ keywords: English, Sentence
 
 1. Although the world is full of suffering, it is also full of the overcoming of it. （办法总比困难多。）
 
+1. I love three things in the world.The sun,the moon and you.The sun for the day,the moon for the night,and you for ever. （浮世万千，吾爱有三。日，月与卿。日为朝，月为暮，卿为朝朝暮暮。）
 
+1. You may be out of my sight, but never be out of my mind. （个人翻译：纵使眼不见，不止心相念。）
 
 
 
