@@ -32,7 +32,9 @@ keywords: English, Sentence
 
 1. You may be out of my sight, but never be out of my mind. （个人翻译：纵使眼不见，不止心相念。）
 
+1. Sometimes there is no next time, no second chance, no time out. Sometimes it is now or never. （个人翻译：有时候没有下一次，没有机会重来，也没有暂停继续。有时候，错过现在，就永远没有机会了。）
 
+1. Never abandon an old friend. You will never find one who can take his place. Friendship is like wine, it gets better as it grows older. (个人翻译：一定不要遗忘一个老朋友，他是无可替代的。友谊如酒，越久越醇。)
 
 
 
