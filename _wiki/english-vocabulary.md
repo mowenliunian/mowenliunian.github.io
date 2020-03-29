@@ -128,7 +128,11 @@ keywords: English, Vocabulary
 1. feign 假装，佯装，装作
 1. ribbon 丝带，带状物，装饰
 1. milestone 重要事件，重要阶段；转折点，里程碑
-
+1. orthogonal 正交的，直角的，垂直的，矩形的
+1. tenured 终身的；终身制的
+1. Shenandoah 谢南多厄，情人度；一种垃圾回收器
+1. Epsilon 希腊字母表的第五个字母；一种垃圾回收器
+1. scavenge 拾荒；捡破烂；垃圾收集
 
 
 
