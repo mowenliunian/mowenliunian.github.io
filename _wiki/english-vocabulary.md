@@ -133,6 +133,14 @@ keywords: English, Vocabulary
 1. Shenandoah 谢南多厄，情人度；一种垃圾回收器
 1. Epsilon 希腊字母表的第五个字母；一种垃圾回收器
 1. scavenge 拾荒；捡破烂；垃圾收集
+1. dump 转储，备份；垃圾场，废物堆
+1. rendezvous 会面，集合；聚集处，约会地点
+1. handoff 传球；给球
+1. semaphore 旗语，信号标
+1. knapsack 旅行背包，帆布背包；背包问题
+1. eviction 驱逐，驱赶
+1. dormant 休眠的，暂停活动的
+1. terminology 专业术语，专用名词
 
 
 
