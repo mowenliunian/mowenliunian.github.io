@@ -141,59 +141,11 @@ keywords: English, Vocabulary
 1. eviction 驱逐，驱赶
 1. dormant 休眠的，暂停活动的
 1. terminology 专业术语，专用名词
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. glance 一瞥，匆匆一看，概览
+1. middle-tier 中间层
+1. failover 失效转移，故障切换
+1. resiliency 跳回，弹性
+1. sophisticated 复杂的，精密的
+1. inherent 固有的；内在的
+1. fill a big gap in the area of ... 填补了某某领域的一大空白
+1. toggle 切换，开关
