@@ -135,3 +135,6 @@ components:
   share:
     enabled: false
     hide-platforms: tencent,diandian,google,douban,linkedin
+  # 文章字数统计
+  word_count:
+    enabled: true
