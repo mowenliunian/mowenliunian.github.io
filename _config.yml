@@ -127,3 +127,11 @@ github: [metadata]
 # ---------------- #
 switch:
   sidebar-popular-repo: false
+
+# 可选组件
+components:
+  # 分享
+  # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
+  share:
+    enabled: false
+    hide-platforms: tencent,diandian,google,douban,linkedin
