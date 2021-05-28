@@ -4,6 +4,7 @@ title: 常见 HTTP 状态码及含义
 categories: [http, response]
 description: 常见 HTTP 状态码及含义
 keywords: http, response, status code
+topmost: true
 ---
 
 > HTTP 状态码由 3 位十进制数字组成，最高位表示状态码的分类，后面两位表示该分类下的不同状态。
