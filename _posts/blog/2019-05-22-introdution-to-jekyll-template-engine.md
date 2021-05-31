@@ -27,7 +27,7 @@ Gem 可以理解为封装一定功能的 Ruby 代码包，Jekyll 也是一个 Ge
 不同操作系统下的具体安装和配置方式请自行 Google。
 
 ## Jekyll 目录结构
-安装 jekyll 后就可以利用 jekyll 命令创建静态站点了，以下是由 Jekyll 生成的一个站点的基本目录结构：
+安装 jekyll 后就可以利用 jekyll 命令创建静态站点（`jekyll new myblog`）了，以下是由 Jekyll 生成的一个站点的基本目录结构：
 ```
 .
 ├── _config.yml
@@ -162,10 +162,10 @@ Jekyll 支持从 YAML、JSON 和 CSV 等文件中加载数据，利用这个特�
 </ul>
 ```
 ## Includes 和 Layouts
-对于一些重复被使用的页面元素，比如 header、footer 和 sidebar 等，可以单独抽取出来存储为 _includes 目录下的一个个独立的页面元素文件。
+对于一些**重复被使用的页面元素**，比如 header、footer 和 sidebar 等，可以单独抽取出来存储为 _includes 目录下的一个个独立的页面元素文件。
 当页面需要用到这些元素时，通过 include 标签引入即可，如 `{% include footer.html %}`。
 
-对于一些布局相同仅仅内容不同的页面，比如每篇博客除了博客内容不同外，其它部分都是相同的，可以把相同的部分抽取出来存储为 _layouts 
+对于一些**布局相同仅仅内容不同的页面**，比如每篇博客除了博客内容不同外，其它部分都是相同的，可以把相同的部分抽取出来存储为 _layouts 
 目录下的一个个独立的页面布局文件。在需要采用这种布局的页面中，通过 Front Matter 的形式指定所用的布局结构，如 `layout: post`。
 ## 静态文件
 静态文件指的是项目中那些无法包含 Front Matter 的，不被 Jekyll 渲染的文件，比如图片、PDF 文档等。虽然这些文件本身不能直接添加 Front Matter，
