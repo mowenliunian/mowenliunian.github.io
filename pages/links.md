@@ -10,6 +10,8 @@ permalink: /links/
 
 > God made relatives. Thank God we can choose our friends.
 
-{% for link in site.data.links %}
-* [{{ link.name }}]({{ link.url }})
-{% endfor %}
+<ul>
+  {% for link in site.data.links %}
+  <li><a href="{{ link.url }}" target="_blank">{{ link.name }}</a></li>
+  {% endfor %}
+</ul>
