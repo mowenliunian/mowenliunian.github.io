@@ -149,3 +149,11 @@ keywords: English, Vocabulary
 1. inherent 固有的；内在的
 1. fill a big gap in the area of ... 填补了某某领域的一大空白
 1. toggle 切换，开关
+1. to their full potential 充分发挥他们的潜力
+1. extraneous 无关的，多余的
+1. now is as a good a time as any to ... 现在是...的最佳时机
+1. in more detail 更详细地
+1. descendant 后裔，后世子孙
+1. sibling 兄弟，姐妹
+1. asterisk 星号
+1. pseudo 伪的，冒充的
