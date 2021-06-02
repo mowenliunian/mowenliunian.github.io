@@ -1,31 +1,25 @@
 - name: Programming Languages
   keywords:
       - Java
-      - C
-      - C++
-      - C#
+      - C/C++/C#
+      - SQL
       - Groovy
       - Python
-      - HTML
-      - CSS
-      - JavaScript
+      - HTML/CSS/JavaScript
       - MarkDown
-      - SQL
 - name: Development Tools
   keywords:
       - Git
-      - IDEA
-      - Kafka
+      - Maven/Gradle
+      - Spring+
+      - MyBatis/Jooq
       - Redis
       - MySQL
-      - Spring Boot
-      - Spring
-      - Spring MVC
-      - MyBatis
-      - Spring Batch
-- name: Common Software Skill
+      - Kafka
+      - ZooKeeper
+      - Hystrix/Sentinel
+- name: Soft Skills
   keywords:
-      - Back End
       - Design Patterns
       - Data Structure
       - English

@@ -10,14 +10,16 @@ permalink: /about/
 
 我是莫问流年，一个普普通通的「码农」。
 
-曾经的我，只追求「走马观花」，去获得表面的一知半解。
-
-现在的我，更坚信「真正的聪明人，都在下笨功夫」。
+编码是我的工作，也塑造了我的思维模型，改变着我的生活。
 
 ## 联系
 
 {% for website in site.data.social %}
+{% if website.type == 'link' %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
+{% else %}
+* {{ website.sitename }}：*{{ website.name }}*
+{% endif %}
 {% endfor %}
 
 ## Skill Keywords
