@@ -157,3 +157,4 @@ keywords: English, Vocabulary
 1. sibling 兄弟，姐妹
 1. asterisk 星号
 1. pseudo 伪的，冒充的
+1. identical 相同的，一致的，清一色的

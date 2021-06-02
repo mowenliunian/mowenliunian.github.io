@@ -31,8 +31,8 @@
     <a class="gotop" href="#" title="回到顶部"><span class="octicon octicon-arrow-up"></span></a>
 </div>
 <!-- / footer -->
-<script src="{{ site.url }}/assets/vendor/share.js/dist/js/share.min.js"></script>
-<script src="{{ site.url }}/assets/js/geopattern.js"></script>
+<script src="{{ assets_base_url }}/assets/vendor/share.js/dist/js/share.min.js"></script>
+<script src="{{ assets_base_url }}/assets/js/geopattern.js"></script>
 <script>
     jQuery(document).ready(function ($) {
         $('.geopattern').each(function () {
@@ -43,25 +43,25 @@
 </script>
 
 {% if page.mermaid %}
-<script src="{{ site.url }}/assets/js/mermaid.min.js"></script>
+<script src="{{ assets_base_url }}/assets/js/mermaid.min.js"></script>
 <script>mermaid.initialize({startOnLoad: true});</script>
 {% endif %}
 
 {% if page.sequence %}
-<script src="{{ site.url }}/assets/js/webfont.js"></script>
-<script src="{{ site.url }}/assets/js/snap.svg-min.js"></script>
-<script src="{{ site.url }}/assets/js/underscore-min.js"></script>
-<script src="{{ site.url }}/assets/vendor/js-sequence-diagrams/dist/sequence-diagram-min.js"></script>
-<link rel="stylesheet" href="{{ site.url }}/assets/vendor/js-sequence-diagrams/dist/sequence-diagram-min.css">
+<script src="{{ assets_base_url }}/assets/js/webfont.js"></script>
+<script src="{{ assets_base_url }}/assets/js/snap.svg-min.js"></script>
+<script src="{{ assets_base_url }}/assets/js/underscore-min.js"></script>
+<script src="{{ assets_base_url }}/assets/vendor/js-sequence-diagrams/dist/sequence-diagram-min.js"></script>
+<link rel="stylesheet" href="{{ assets_base_url }}/assets/vendor/js-sequence-diagrams/dist/sequence-diagram-min.css">
 <script>
     $(".language-sequence").sequenceDiagram({theme: 'simple'});
 </script>
 {% endif %}
 
 {% if page.flow %}
-<script src="{{ site.url }}/assets/js/raphael.min.js"></script>
-<script src="{{ site.url }}/assets/vendor/flowchart.js/dist/flowchart.min.js"></script>
-<script src="{{ site.url }}/assets/js/flow.js"></script>
+<script src="{{ assets_base_url }}/assets/js/raphael.min.js"></script>
+<script src="{{ assets_base_url }}/assets/vendor/flowchart.js/dist/flowchart.min.js"></script>
+<script src="{{ assets_base_url }}/assets/js/flow.js"></script>
 {% endif %}
 
 {% if page.mathjax %}
