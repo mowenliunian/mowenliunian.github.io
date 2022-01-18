@@ -158,3 +158,17 @@ keywords: English, Vocabulary
 1. asterisk 星号
 1. pseudo 伪的，冒充的
 1. identical 相同的，一致的，清一色的
+1. cumber 阻碍，拖累，麻烦
+1. boilerplate code 样板代码
+1. likelihood 可能性
+1. hedge 树篱，防止损失的手段
+1. foregoing 前面的
+1. portal 壮观的大门，豪华的入口；门户网站，入口站点
+1. slurper 吸食者
+1. purge 清除，清洗，净化
+1. flush 冲洗，脸红
+1. diet 日常饮食，日常食物，规定饮食
+1. excelsior 锯屑，细刨花；更向上的，精益求精的
+1. detach 分开，摆脱，离开
+1. bureau 局，科，办事处
+1. preamble 序言，绪论，开场白
