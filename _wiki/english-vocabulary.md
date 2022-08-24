@@ -198,4 +198,16 @@ keywords: English, Vocabulary
 188. cryptic 隐藏的，神秘的
 189. bear 承担，承受
 190. bear in mind 牢记，铭记
-191. 
+191. caret 脱字号，补充号
+192. actuator 制动装置；监控器
+193. pivotal 关键性的，核心的，枢轴的
+194. suffice 满足，合格
+195. intuitive 直觉的，直观的
+196. convey 表达，传达；传送
+197. concise 简明的，简洁的；简略的，简缩的
+198. idiomatic 惯用的，地道的，符合当地语言习俗的
+199. quorum （会议的）法定人数
+200. gossip 流言，
+201. minor 次要的，轻微的，少数的；小调的，小音阶的
+202. major 主要的，主修的，重要的；大调的
+203. linger 徘徊，逗留
