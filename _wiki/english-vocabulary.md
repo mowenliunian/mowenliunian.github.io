@@ -211,3 +211,18 @@ keywords: English, Vocabulary
 201. minor 次要的，轻微的，少数的；小调的，小音阶的
 202. major 主要的，主修的，重要的；大调的
 203. linger 徘徊，逗留
+204. repetitive 重复的，乏味的
+205. mundane 单调的，平淡的
+206. hassle 麻烦，困难，争论
+207. snippets 一条，一则，一小段
+208. cloak 斗篷，遮盖物；遮盖，掩盖
+209. scratch 划伤，刮痕；仓促拼凑的，无差点的
+210. start from scratch 白手起家，从头开始
+211. deliberate 蓄意的，故意的；反复思考，深思熟虑
+212. tenant 房客，租户，佃户；居住，工作
+213. fortress 城堡，堡垒，要塞
+214. crypto 加密货币，秘密成员
+215. epic 史诗，长篇故事
+216. backlog 积压，储存；积压的工作
+217. sprint 冲刺，短距离快跑
+219. vulnerability 漏洞
