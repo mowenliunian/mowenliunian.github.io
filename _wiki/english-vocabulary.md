@@ -225,4 +225,10 @@ keywords: English, Vocabulary
 215. epic 史诗，长篇故事
 216. backlog 积压，储存；积压的工作
 217. sprint 冲刺，短距离快跑
-219. vulnerability 漏洞
+218. vulnerability 漏洞
+219. quartz 石英
+220. mashup 混搭，糅合，集成不同资源
+221. integrate 整合，结合；统一，使成一体
+222. disintegrate 瓦解，分裂
+223. homomorphism 同态，同型
+224. clause 子句，从句；条款
