@@ -232,3 +232,13 @@ keywords: English, Vocabulary
 222. disintegrate 瓦解，分裂
 223. homomorphism 同态，同型
 224. clause 子句，从句；条款
+225. conceive 构想，设想
+226. constitute 构成；指定
+227. in the first place 首先，起初，一开始
+228. canary 金丝雀；淡黄色，鲜黄色
+229. with respect to 关于，至于；相对于
+230. ultimate 极端的，终极的，最终的；精华，极品，最好的事物
+231. gemini 双子座
+232. bard 诗人，吟游诗人
+233. bearer 持票人，消息传达者，传受者
+234. spine 脊柱，刺，中心
